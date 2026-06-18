@@ -1,0 +1,6 @@
+# Core dependencies for the tools/ and notebooks/
+numpy>=1.24
+Pillow>=10.0
+scipy>=1.11
+matplotlib>=3.7
+jupyterlab>=4.0
